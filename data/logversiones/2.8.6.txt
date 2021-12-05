@@ -1,0 +1,19 @@
+09/08/2018 - Versión 2.8.6:
+
+◯ - Novedad > Reportuser: Comando para reportar a un usuario de manera Anónima con los moderadores del servidor en el que estés (En caso de que ellos hayan configurado el comando "ch!ruchannel" funcionará).
+
+◯ - Novedad > Ruchannel: Comando para asignar el canal a donde irán los reportes del comando "ch!reportuser" (Hará que los usuarios reporten diversos problemas de manera anónima) [Permisos: Administrar el servidor].
+
+◯ - Novedad > Suggest: Comando para sugerir lo que necesite el servidor en el que estés (En caso de que aquel servidor tenga activada la función de sugerencias "ch!suggestionc").
+
+◯ - Novedad > Suggestionc: Comando para asignar el canal en donde enviarán las sugerencias propuestas por los usuarios con ch!suggest. [Permisos: Administrar el servidor].
+
+◯ - Novedad > Approve: Comando para aprobar una sugerencia que se haya dado en tú servidor. (Deberás poner la ID del mensaje que contiene la sugerencia) [Permisos: Administrar Mensajes].
+
+◯ - Novedad > Deny: Comando para rechazar una sugerencia propuesta. (Deberás poner la ID del mensaje que contiene la sugerencia) [Permisos: Administrar mensajes].
+
+◯ - Novedad > Maybe: Comando para marcar a una sugerencia que tenga potencial para ser aprobada (Deberás poner la ID del mensaje que contiene la sugerencia) [Permisos: Administrar mensajes].
+
+◯ - Novedad > Dab: Comando sugerencia de @Loii que mandará una imagen de anime aleatorio haciendo una expresión de "dab" (Tú sabrás cuándo usarlo :GWempDab: ).
+
+◯ - Waifu: Se han añadido 4 nuevas waifus al comando ch!waifu (Este comando te mostrará waifus al azar para que votes) [Utilización: ch!waifu <Número de waifu>].

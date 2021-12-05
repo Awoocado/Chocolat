@@ -1,0 +1,65 @@
+12/10/2018 - Versión 3.0.0:
+
+◯ - Novedad > Angry: Con este comando de reacción, expresarás que estás molesto.
+
+◯ - Novedad > Baka: Con este comando de reacción, podrás decirle a una persona que es un completo idiota.
+
+◯ - Novedad > Banghead: Con este comando de reacción, podrás golpearte la cabeza. 
+
+◯ - Novedad > Hackban: Con este comando de moderación, podrás banear a un usuario por medio de su ID.
+
+◯ - Novedad > Hexcolor: Con este comando útil, tendrás una vista previa de un color hexadecimal.
+
+◯ - Novedad > Infonodm: Comando informativo con el cuál Chocolat enviará el mensaje de help al canal en donde estás. 
+
+◯ - Novedad > Jpose: Este comando de reacción, te permite posar al estilo Jojo's. 
+
+◯ - Novedad > Jumbo: Con este comando útil, podrás agrandar un emoji para así tenerlo en imagen formato png.
+
+◯ - Novedad > Lastmessage: Este comando para moderación te permite averiguar cuál fue el último mensaje mandado por el usuario mencionado.
+
+◯ - Novedad > Morse: Este comando útil descifrará código morse.
+
+◯ - Novedad > Nodmhelp: Comando informativo que mandará el mensaje de ayuda al canal.
+
+◯ - Novedad > Nope: Con este comando de reacción niega algo que quieras.
+
+◯ - Novedad > Pokedex: Con este comando de juegos obtendrás Información detallada de un pokémon (Sugerencia: Combinar con Pokécord).
+
+◯ - Novedad > Pout: Comando de reacción que te permitirá hacer una mueca expresando que algo te disgusta.
+
+◯ - Novedad > Shrug: Con este comando de reacción podrás expresar que no sabes/no te importa/... algo que tengas presente.
+
+◯ - Novedad > Smug: Este comando de reacción te será perfecto para presumir en una expresión.
+
+◯ - Novedad > Suggestion: Con este comando podrás mandar sugerencias para el bot desde cualquier servidor.
+
+◯ - Novedad > Bugreport: Con este comando podrás mandar reportes de bugs para el bot desde cualquier servidor.
+
+◯ - Comandos de mensaje al MD: Dichos comandos en los cuáles Chocolat te envía un mensaje al privado, ahora te notificará si no lo puede hacer. (En caso de desactivar el recibir mensajes que no sean de amigos).
+
+◯ - Gimages: Cuando los pedidos máximos por día de este comando se acaben, te avisará que no hay.
+
+◯ - Comandos NSFW dependientes de Nekos.life: Se te notificará en caso de que exista algún error al solicitar dicho comando.
+
+◯ - Kill: Ahora el Admin se puede matar a sí mismo... no tiene sentido, pero es un spoiler de algo que se podría hacer.
+
+◯ - Love: Se modificó para que envíe el tipo de error que es cuando este no envía ningún mensaje.
+
+◯ - Question: Se dio orden a las reacciones para que aparezca primero la correcta y los usuarios voten a ello.
+
+◯ - Reportuser: Ahora eliminará el mensaje de: "Su reporte ha sido enviado" para más discreción.
+
+◯ - Serverinfo: Ahora no podrás ver la información de otro servidor mediante la ID utilizando este comando. Esta función fue eliminada debido a un fallo en los Shards.
+
+◯ - Setwelcome & Setleave: Se añadieron más opciones para incluir en el mensaje. ({user} {usern} {userid} {server} {members}).
+
+◯ - Waifu: Se ha arreglado el comando para que te avise cuando colocas un número inválido, se añadieron más waifus.
+
+◯ - Wiki: Se modificó para que avise en caso de que el artículo buscado no exista.
+
+◯ - 8ball: Ahora hay más respuestas posibles.
+
+◯ - Comandos de música caídos: Los comandos de música no estarán funcionando por el momento, ya estamos observando el error que se tiene, por favor sean pacientes.
+
+◯ - Si leíste hasta aquí, es porque quieres ver un secreto, ¿no? "ch!yandere"

@@ -1,0 +1,11 @@
+31/01/2018 - Versión 2.4.0:
+
+◯ - Novedad > Caguai: Repite tu texto de manera "caguai". 
+
+◯ - Novedad > Fish: Juega a pescar con este sencillo comando.
+
+◯ - Novedad > Difserverinfo: Muestra la información de otro servidor en el que está el bot proporcionando la ID de este.
+
+◯ - Novedad > Support: Comando que envía la invitación del servidor de soporte del bot.
+
+◯ - Novedad > Donate: Comando que te informará sobre métodos de donación para el bot.

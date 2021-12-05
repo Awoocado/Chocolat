@@ -1,0 +1,11 @@
+10/06/2018 - Versión 2.6.0:
+
+◯ - Novedad > Sleep: Es hora de dormir...
+
+◯ - Novedad > Tempmute: Silencia temporalmente a un usuario mencionado. (Uso "ch!tempmute @Richard281 5 minutes").
+
+◯ - Gimages: Se añadió una cantidad adicional de resultados por uso del comando.
+
+◯ - Bigtext: Ahora se borrará el mensaje anterior al uso de este comando.
+
+◯ - Ranime: Se estableció otra página para la recomendación de los enlaces de los animes de este comando.

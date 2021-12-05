@@ -1,0 +1,39 @@
+08/05/2019 - Versión 3.4.0:
+
+◯ - Novedad > Setconfessions: Con este comando podrás configurar un canal en donde la gente confesará cosas de manera anónima o normal.
+
+◯ - Novedad > Confession: Confesa algo en tu servidor, ya sea anónima o normal.
+
+◯ - Novedad > Rate: Se restauró este comando a petición de los usuarios.
+
+◯ - Novedad > Jumbo: Se restauró el comando a petición de los usuarios.
+
+◯ - Novedad > Cooldown: Se añadió cooldown a variedad de comandos, la mayoría de imágenes/gifs.
+
+◯ - Novedad > Happyend: Vente en una persona que selecciones o expresa que te haz venido.
+
+◯ - Novedad > Blowjob: Hazle una rusa a un usuario seleccionado.
+
+◯ - Machievement: -1 bug.
+
+◯ - Ping: Se añadió un :ping_pong:
+
+◯ - Sleep: Ahora puedes dormir junto a alguien.
+
+◯ - Dance: Podrás bailarle o bailar con alguien.
+
+◯ - Warn: -1 bug y optimizado.
+
+◯ - Meme: Más memes.
+
+◯ - Say, Esay & Sdm: Ahora un usuario normal no podrá mandar contenido indeseable por este comando a no ser que pueda borrar mensajes en ese servidor.
+
+◯ - Setautorole: -1 bug.
+
+◯ - Waifu: Restaurados todos los links caídos y corrección de bugs.
+
+◯ - Husbando: Más husbandos y corrección de un bug.
+
+◯ - Jpose, Handholding, Dance, Punch, Kill, Blush, Feed, Slap, Run, Kickbutts, Cry, Pat, Disgust, Sleep, Happy, Bored: Más Gifs.
+
+◯ - Konachan: Ahora te mostrará una pequeña lista de tags que puedes usar al usar el comando así: "ch!konachan tags".

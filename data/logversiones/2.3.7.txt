@@ -1,0 +1,9 @@
+06/01/2018 - Versión 2.3.7:
+
+◯ - Novedad > Note: Genera una imagen con la nota que has puesto.
+
+◯ - Novedad > Question: Comando para hacer una encuesta de forma simple y rápida.
+
+◯ - Novedad > Lyrics: Busca la letra de unacanción.
+
+◯ - Gmasturbate: Vuelve comando de evento previo para ser fijo en los comandos NSFW del bot. 

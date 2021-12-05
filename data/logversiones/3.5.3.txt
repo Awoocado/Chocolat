@@ -1,0 +1,29 @@
+18/01/2020 - Versión 3.5.3:
+
+◯ - Novedad > Spray: Con este comando podrás rociar tu sustancias malévolas a un usuario, es una útil forma de atacar sino le quieres pegar. Modo de uso: "ch!spray <@usuario>".
+
+◯ - Release: El comando ha sido totalmente cambiado. Ahora podrás conseguir las notas de actualizaciones de todas las versiones en formato ".txt"
+
+◯ - Botsuggestion: Los mensajes enviados de este comando ahora se registrarán también en el canal de sugerencias del servidor de Chocolat para que tengan votación.
+
+◯ - Se añadieron más GIFs e imágenes para Comandos interactivos, secretos y reactivos.
+
+◯ - Se añadieron más Waifus y Husbandos en la lista de estos.
+
+◯ - Eliminados mensajes de referencia a la donación, muchísimas gracias por ayudarnos a mantener el bot en línea.
+
+◯ - Purge: Corregido problema de gramática en Purge.
+
+◯ - Ignorechannel: Implementado borrar el mensaje del evento ic.
+
+◯ - Meme: Más memes.
+
+◯ - Help: Ahora se puede usar mediante los abreviados de los comandos.
+
+◯ - Parche de errores para: Baka, Bite, Cuddle, Dance, Handholding, Highfive, Hug, Kiss, Lick, Pat, Poke, Punch, Slap, Sleep, Tickle, Banghead, Blush, Confused, Cry, Dab, Happy, Lewd, Like, Pout.
+
+◯ - Se editaron cosas en ciertos procesos del bot.
+
+◯ - Avatar: Arreglado, y ahora toma tanto ID como nombre sin mención.
+
+◯ - Editembed: Se arreglaron los mensajes de apoyo del comando y ahora son correctos, también se arreglaron ciertos errores en este comando.

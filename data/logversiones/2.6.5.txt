@@ -1,0 +1,13 @@
+15/06/2018 - Versión 2.6.5:
+
+◯ - Novedad > Raw: (Random Anime Wallpaper): Te da wallpapers aleatorios. Puedes probar buscando con algún término.
+
+◯ - Novedad > Wiki: Busca en Wikipedia.
+
+◯ - Novedad > Urban: Busca palabras en el Diccionario Urbano (Urban Dictionary). Ten en cuenta que los resultados están traducidos al Español por el traductor DeepL.
+
+◯ - Novedad > Ratewaifu: Puntúa tu waifu.
+
+◯ - Ascii: Arreglado el comando "ch!ascii".
+
+◯ - Anime: Ahora el comando ch!anime mostrará la sinopsis en español.

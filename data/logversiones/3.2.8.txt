@@ -1,0 +1,35 @@
+11/03/2019 - Versión 3.2.8:
+
+◯ - Novedad > Editsay: Este comando te servirá para editar un mensaje de Chocolat, puedes usarlo de la siguiente manera: "ch!editsay <ID de un mensaje del bot> <Nuevo mensaje>".
+
+◯ - Novedad > Editembed: Comando realizado para editar la descripción de un embed del bot. Úsalo de la siguiente manera: "ch!editembed <ID de un mensaje del bot> <colorHex> <Nuevo mensaje>".
+
+◯ - Coinflip: Se añadió un mejor diseño a la moneda y ahora dirá el resultado.
+
+◯ - About: Pequeño cambio en una zona.
+
+◯ - Botinfo: Pequeño cambio en una zona.
+
+◯ - Baka: Se agregaron GIFs distintos, ahora usted puede sugerir GIFs para cualquier comando en nuestro servidor.
+
+◯ - Slap: Se añadieron GIFs alternos al API.
+
+◯ - Boom: Removidos los viejos GIFs y anexados unos nuevos y funcionables.
+
+◯ - Shrug: Añadido nuevo GIF.
+
+◯ - Ban: Mejora en la estética y se resolvió el error del cual no le mandaba la sanción por privado al sancionado.
+
+◯ - Kick: Mejora en la estética y se resolvió el error del cual no le mandaba la sanción por privado al sancionado.
+
+◯ - Warn: Mejora en la estética y se resolvió el error del cual no le mandaba la sanción por privado al sancionado.
+
+◯ - Husbandos: Se añadieron más husbandos.
+
+◯ - Waifus: Nuevas waifus en la lista.
+
+◯ - Meme: El API corrigió los memes y se añadieron memes que son compartidos por la comunidad de Chocolat.
+
+◯ - Catrandom (cat): Se transformó al comando de ch!catrandom a ch!cat y vuelve a funcionar de nuevo.
+
+◯ - Invite: Más estética en el mensaje privado de invitación.

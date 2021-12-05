@@ -1,0 +1,21 @@
+{
+  "tokenUtage": "",
+  "tokenYukihira": "",
+  "token": "",
+  "prefix": "ch!",
+  "IdOwner": "192756779573051392",
+  "botname": "Chocolat",
+  "taihou": {
+    "token": "",
+    "options": {
+      "userAgent": "Chocolat/v2.8.0"
+    }
+  },
+  "DBLtoken": "",
+  "weeztoken": "",
+  "dbconnection":{
+    "user": "chocolat",
+    "password": "chocolatbot",
+    "database": "discord_bot"
+  }
+}

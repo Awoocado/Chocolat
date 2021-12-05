@@ -1,0 +1,13 @@
+19/11/2018 - Versión 3.0.5:
+
+◯ - Novedad > Bored: Se creó el comando "ch!bored" y su función es una forma de expresar tu aburrimiento.
+
+◯ - Novedad > Tsundere: Se creó el comando ch!tsundere y su función es ser tsundere.
+
+◯ - Help & Nodmhelp: Se especificó que los comandos de música se han deshabilitado en los mensajes de ch!help y ch!nodmhelp.
+
+◯ - Nodmhelp: Se rediseñó el comando ch!nodmhelp.
+
+◯ - Caguai: Se añadieron más aspectos kawaiis al comando ch!caguai.
+
+◯ - Suicide: Se añadieron más GIF a "ch!suicide".

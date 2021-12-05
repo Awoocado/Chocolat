@@ -1,0 +1,51 @@
+22/07/2020 - Versión 3.6.2:
+
+> Novedades:
+
+◯ - Bot: Ahora la librería del bot es Eris y no Discord.js.
+
+◯ - Más husbandos, waifus, memes y gifs de comandos variados.
+
+--------------------------------------------------------------------
+> Cambios:
+
+◯ - Anime: El comando vuelve a funcionar con normalidad.
+
+◯ - Wiki: El comando vuelve a funcionar con normalidad.
+
+◯ - Ping: Ahora es comando de la categoría informativos y no útiles.
+
+◯ - Reportuser: Dicho comando ahora tiene la opción de reportar a un usuario por su ID en lugar de sólo con la mención.
+
+◯ - Bugreport: Ahora se usa separando los mensajes con ";" (en lugar de "/") y sólo aceptará comandos válidos en el reporte.
+
+◯ - Serverinfo: ya no mostrará más detalles de los usuarios.
+
+◯ - Userinfo: ya no mostrará el RichPrecense del usuario.
+
+◯ - Botinfo: Se cambió la estructura del comando, y ahora ya no mostrará usuarios y servidores.
+
+◯ - Unban: Ahora se le puede ingresar una razón de dicha acción.
+
+◯ - Unmute: Ahora se le puede ingresar una razón de dicha acción.
+
+◯ - Bot: Ahora el bot reiniciará su prefijo al salirse de un servidor (en caso de haber sido cambiado anteriormente).
+
+◯ - Config: Ahora puede eliminar todas las configuraciones establecidas en el servidor de una. Uso: `ch!config delete`
+
+◯ - Tempmute: Ahora cuenta con la opción de agregar una razón a la sanción.
+
+◯ - Eliminado: Variante --list de los comandos husbando y waifu.
+
+◯ - Feed: Ahora cuenta con el alias "eat".
+
+◯ - Ignorechannel: Personas con permisos de administrador o con el modrole, tendrán acceso de usar a Chocolat en canales restringidos por este comando.
+
+--------------------------------------------------------------------
+> Bugs: 
+
+◯ - Admin/Mod: Algunos comandos de moderación mostrarán la ID del usuario como ciertos que ya lo hacían.
+
+◯ - Weather: Arreglado problema con la hora en el comando.
+
+◯ - Variedad de bugs resueltos con respecto a los diversos diálogos del bot.

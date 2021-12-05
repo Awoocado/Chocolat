@@ -1,0 +1,37 @@
+05/07/2019 - Versión 3.4.2:
+
+◯ - Novedad > Enable & Disable: Sistema de activar y desactivar comandos, muy recomendado de usar si ustedes consideran bloquear algún comando por alguna razón.
+
+◯ - Novedad > Splash: Moja a una persona mencionada.
+
+◯ - Novedad > Think: Ponte a pensar.
+
+◯ - Novedad > Claps: Apláudele a una persona mencionada.
+
+◯ - Novedad > Cheeks: Pellizca las mejillas de las personas.
+
+◯ - Novedad > Sip: Bebe un poco de té u otra bebida de una forma peculiar.
+
+◯ - Novedad > Scared: Muestra que tienes miedo.
+
+◯ - Novedad > Laugh: Ríe o búrlate de una persona.
+
+◯ - Novedad > Sing: Canta algo con este comando.
+
+◯ - Novedad > Hi: Saluda a la persona mencionada.
+
+◯ - Osu: Se resolvió un problema.
+
+◯ - Esay: Se añadió la posibilidad de seleccionar el color del embed.
+
+◯ - Editembed: Se añadió la posibilidad de seleccionar el color del embed.
+
+◯ - Happyend: Se cambió su nombre a uno más corto: Cum.
+
+◯ - Se añadió más contenido en variedad de comandos, aquellos que están relacionados a los canales de Galería y memes.
+
+◯ - Se bloquearon algunas formas más con las que se podía hacer Spam usando al bot.
+
+◯ - Google: Como surgió un error con el API se decidió eliminar el comando.
+
+◯ - Raw: Como surgió un error con el API se decidió eliminar el comando.

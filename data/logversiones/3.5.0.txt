@@ -1,0 +1,37 @@
+15/10/2019 - Versión 3.5.0:
+
+◯ - Novedad > Servicio de traducción: Regresó el comando "ch!translate", de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.
+
+◯ - Novedad > Búsqueda personalizada: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.
+
+◯ - Novedad > Comando "ch!license": Se creó el comando ch!license que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.
+
+◯ - Novedad > Comando "ch!sad": Se añadió a cambio de "ch!suicide", puede ser útil como reemplazo.
+
+◯ - Novedad > Comandos Secretos = 6.
+
+◯ - Dessarrollo: El espacio de desarrollo del bot ha sido optimizado, ahora es más cómodo para los programadores editarlo, además de que se simplificaron varias cosas para su comodidad, esto trae consigo varias soluciones de errores.
+
+◯ - Cooldown, Disable & Enable: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al ch!disable & ch!enable, simplemente fueron optimizados.
+
+◯ - Comando "ch!addcoloroles": Este comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.
+
+◯ - Bugs: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.
+
+◯ - Comando "ch!bugreport": El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.
+
+◯ - Memes: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.
+
+◯ - Comando "ch!love": El comando ahora calcula un valor preciso de porcentaje de amor.
+
+◯ - Más waifus, husbandos y gifs: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.
+
+◯ - Comando "ch!hi": Con el comando ch!hi, ahora podrás saludar a todo el mundo.
+
+◯ - Comando "ch!loli": Se eliminó, pues se consideraba obsoleto.
+
+◯ - Comando "ch!kill": Algunos gifs de este se eliminaron porque infringían con los ToS de discord.
+
+◯ - Comando "ch!suicide": Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.
+
+◯ - ¡Te dejo otro secreto! "ch!peek"

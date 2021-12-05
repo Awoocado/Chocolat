@@ -1,0 +1,11 @@
+06/07/2018 - Versión 2.7.5:
+
+◯ - Novedad > Facepalm: ¡Úsalo cuando alguien de tus amigos haga algo ridículo! (Este comando mostrará un gif anime de un personaje con su mano en la cabeza). [Uso: ch!facepalm].
+
+◯ - Novedad > Feed: ¿Y por qué no alimentar a tus seres queridos de vez en cuando? (Este comando mostrará un gif anime de un personaje alimentando a otro). [Uso: ch!feed @usuario].
+
+◯ - Novedad > Tickle: ¡AH JAJAJA, PARA POR FAVOR, JAJAJAJA! (Este comando mostrará un gif anime de un personaje cosquillando a otro). [Uso: ch!tickle @usuario].
+
+◯ - Novedad > Pavatar: ¿Buscabas un nuevo look? Por cortesía de nekos.life aquí lo tienes. (Este comando te dará una imagen anime ideal para tu avatar de discord). [Uso: ch!pavatar].
+
+◯ - Los comandos NSFW de ch!fuck, ch!gmasturbate y ch!suck ahora mostrarán una amplia galería de gifs, cortesía de Nekos.life.

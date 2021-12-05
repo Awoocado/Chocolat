@@ -1,0 +1,21 @@
+29/12/2018 - Versión 3.1.0:
+
+◯ - Novedad > Husbando: Se creó ch!husbando, con un total de 334 husbandos registrados. Fue sugerido varias veces, y bueno, finalmente está aquí.
+
+◯ - Novedad > Trash: Se creó el comando ch!trash, el cual consiste en considerar "basura" al usuario mencionado. Úsenlo con propósitos de entretenimiento y no para ofender a alguien. (Cortesía API Weez)
+
+◯ - Novedad > Trump: Se creó el comando ch!trump, la cual podrás aprobar una ley mediante Donald Trump. ¡Pruébalo! (Cortesía API Weez)
+
+◯ - Novedad > Achievement: Se creó el comando ch!achievement, la cual podrás generar un logro al estilo XBOX. (Cortesía API Weez)
+
+◯ - Novedad > Loli: Se creó el comando ch!loli, reemplazando a ch!ratewaifu. Mostrará una imagen de una loli aleatoriamente. (Cortesía API Weez)
+
+◯ - Novedad > Disgust: Nuevo comando de reacción: ch!disgust. Expresa que estás disgustado con algo.
+
+◯ - Novedad > Meme: El comando ch!meme finalmente está aquí, y en español. (Cortesía API Weez)
+
+◯ - Love: Ahora en ch!love aparecerá el nombre del shipeo, una combinación del nombre de las personas mencionadas.
+
+◯ - Waifu: Se agregaron más waifus al comando ch!waifu, haciendo un total de 377 waifus registradas.
+
+◯ - Se eliminó ch!ratewaifu ch!fish y ch!lolilicense.

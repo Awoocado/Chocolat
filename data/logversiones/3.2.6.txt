@@ -1,0 +1,19 @@
+09/02/2019 - Versión 3.2.6:
+
+◯ - Novedad > Run: Con este comando puedes salir corriendo de una persona. Prueba usando "ch!run @user".
+
+◯ - Novedad > Vomit: Vomita de algo desagradable. Prueba usando "ch!vomit".
+
+◯ - Novedad > Fbi: Al usar este comando deberías correr... ¡Porque la FBI ya viene por ti!. Prueba usando "ch!fbi".
+
+◯ - Novedad > Kickbutts: Patéale el trasero a alguien usando este comando, desahógate contra esa persona que te enoja. Prueba usando "ch!kickbutts @user".
+
+◯ - Novedad > Addcoloroles: Este comando te servirá para añadir 21 roles de colores en un servidor, así de simple como suena, se recomienda para servidores nuevos. Prueba usando "ch!addcoloroles". Necesitarás el permiso de manipular roles al igual que el bot.
+
+◯ - Novedad > Release: Este comando mandará una nota de actualización donde estes. Prueba usando "ch!release".
+
+◯ - Cookie: Se añadió una excepción a un donador del bot, el podrá dar avocados en lugar de galletas.
+
+◯ - Botsuggestion: En lugar de ser suggestion, el comando se cambió a botsuggestion para evitar confusiones con el comando: "ch!suggest".
+
+◯ - Help & Nodmhelp: Ambos comandos se les añadió la opción de mostrar comandos NSFW o no mostrarlos, esto dependerá de en qué canal uses el comando. Por ejemplo: Al usar el comando en un canal NSFW saldrán los comandos en el mensaje, pero si los usas en un canal normal, estos se les dará censura.

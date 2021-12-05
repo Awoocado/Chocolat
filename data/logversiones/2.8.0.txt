@@ -1,0 +1,29 @@
+15/07/2018 - Versión 2.8.0:
+
+◯ - Novedad > Bite: Nuevo comando "ch!bite". Muerde a alguien (gifs cortesía de Weeb.sh Services).
+
+◯ - Novedad > Handholding: Nuevo comando "ch!handholding". Agárrale la mano a alguien románticamente. (gifs cortesía de Weeb.sh Services.).
+
+◯ - Novedad > Lewd: Nuevo comando "ch!lewd". Expresa que estás en tu modo lascivo. (gifs cortesía de Weeb.sh Services.)
+
+◯ - Novedad > Fortnite: Nuevo comando "ch!fortnite". Busca estadísticas de algún jugador de Fortnite.
+
+◯ - Novedad > Shortlink: Nuevo comando "ch!shortlink" Acorta un enlace.
+
+◯ - Novedad > Manga: "ch!manga". Busca mangas en MyAnimeList. 
+
+◯ - Novedad > Rahentai: "ch!rahentai". Mostrará gifs aleatorios hentai.
+
+◯ - Help: Gracias a la reescritura, la gran mayoría de comandos tienen su ayuda detallada, sin necesidad de ir a consultar a la página web. Para usarlo escribe ch!help comando reemplazando comando por el comando que quieras consultar la ayuda. Ejemplo: ch!help setwelcome.
+
+◯ - Reescritura total del código de Chocolat.
+
+◯ - La gran mayoría de comandos de Interacción y reacción ahora mostrarán gifs e imágenes cortesía de Weeb.sh Services. Los comandos excluídos son: facepalm suicide kill y boom.
+
+◯ - Los comandos de música fueron movidos a un host más potente, ahora la música irá con menos lag.
+
+◯ - Translate: Se han arreglado errores menores, como el mal funcionamiento del comando translate.
+
+◯ - Npm: El comando ch!npm fue eliminado.
+
+◯ - Xbooru: El comando NSFW ch!xbooru fue eliminado.

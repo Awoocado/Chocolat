@@ -1,0 +1,9 @@
+16/04/2018 - Versión 2.5.8:
+
+◯ - Novedad > Setprefix: Ahora se puede cambiar el prefijo de chocolat para tu servidor, use "@Chocolat#8583 prefix" en caso de olvidar el prefijo actual.
+
+◯ - Novedad > Unban: Podrás desbanear a un usuario mediante la ID.
+
+◯ - Novedad > Blacklist & LeaveGuild: Estos comandos pertenecen al desarrollador y permiten tomar control sobre qué servidores deberían tener acceso al bot y cuales no.
+
+◯ - La base de datos ha sido reiniciada.

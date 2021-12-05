@@ -1,0 +1,13 @@
+03/01/2018 - Versión 2.3.3:
+
+◯ - Novedad > Ascii: Muestra el texto en formato ASCII.
+
+◯ - Novedad > Bigtext: Muestra el texto en indicadores regionales de Discord.
+
+◯ - Novedad > Softban: Banea y desbanea al usuario para limpiar todos sus mensajes de hasta 7 días.
+
+◯ - Rolelist: Fue cambiado a "ch!channellist".
+
+◯ - Machievement: Se ha arreglado el problema con su API.
+
+◯ - Psst, comando secreto: "ch!jump"

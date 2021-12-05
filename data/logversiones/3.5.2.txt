@@ -1,0 +1,27 @@
+24/12/2019 - Versión 3.5.2:
+
+◯ - Novedad > Aliases: Se implementaron unos nuevos nombres para la mayoría de comando, esto quiere decir que, ahora el bot logrará identificar otras formas en las que apliques un comando, por ejemplo, "nodmhelp" puede ser también introducido como "ndh" y funcionará igual. Si desea ver los aliases de los comandos, use "help <comando>".
+
+◯ - Novedad > Comando "ch!ignorechannel": Con este nuevo comando podrás hacer que el bot ignore por completo un canal de tu servidor, muy útil sino quieres perder tiempo con los permisos del canal.
+
+◯ - Librerías: Se borraron y actualizaron ciertas librerías con las cuales se producian diversos errores, esto puede mejorar al rendimiento del bot.
+
+◯ - disable & enable: Ahora ya se pueden desactivar módulos completos de comandos, por ejemplo, si desea eliminar el NSFW, use: "disable NSFW".
+
+◯ - Comando "ch!confession": Cambió la forma en la que se usaba antes, ahora será más práctico, la confesión siempre enviará una confesión anónima, a no ser, de que uses --n al final del comando.
+
+◯ - Comando "ch!jumbo": El comando Jumbo, ahora podrá expandir cualquier emoji de Discord a excepción de los originales, eso quiere decir que podrás expandir incluso de otros servidores. También puedes conseguir el enlace de descarga por si lo necesitas con --url al final del comando.
+
+◯ - Comandos secretos: Ahora son 10 los comandos secretos.
+
+◯ - husbandos & waifus: Se implementaron muchos/as más sugeridos/as por la comunidad.
+
+◯ - GIFS: Hay más gifs en comandos reactivos e interactivos.
+
+◯ - bugs: Muchos errores tanto pequeños, como grandes fueron solucionados, lo mejor sería generalizarlo a esa respuesta.
+
+◯ - Comando "ch!love": Ahora puedes calcular un porcentaje verdadero de amor con "--real" al final del comando. También puedes obtener un resultado del día con "--today".
+
+◯ - Limpieza: Notarás que el bot cada vez deja menos rastro por el canal.
+
+◯ - Comando "ch!addcoloroles": Ahora hay nuevas paletas de colores, descúbrelas y prúebalas en tu servidor.

@@ -1,0 +1,60 @@
+13/04/2018 - Versión 2.5.5:
+
+◯ - Novedad > About: Muestra información de Chocolat (no técnica).
+
+◯ - Novedad > Password: Genera una contraseña aleatoriamente.
+
+◯ - Novedad > Horoscope: Te mostrará porcentajes aleatorios de "Amor", "Fortuna", "Suerte" y "Dinero".
+
+◯ - Novedad > Setautorole: Establece el rol automático que Chocolat asignará a los nuevos.
+
+◯ - Novedad > Setprefix: Establece el prefix personalizado para el servidor. 
+
+◯ - Help: Anteriormente te enviaba 6 mensajes, 5 en Markdown y 1 en Embed. Ahora solo te enviará un Embed con todos los comandos. La descripción de cada comando estará en la página oficial.
+
+◯ - Botinfo: Un muy ligero cambio, ahora en la lista de "programación" dice la memoria RAM que está consumiendo.
+
+◯ - Avatar: Ahora podrás acceder al enlace de la imagen presionando las letras azules que dicen "Avatar URL".
+
+◯ - Userinfo: Se ha agregado más información de usuario. Míralo por ti mismo.
+
+◯ - Serverinfo: Se ha agregado más información de servidor. 
+Adiciomalmente se ha implementado el comando "difserverinfo" a este. Ahora con este comando podrás ver la info de otros servidores dando la ID.
+
+◯ - Channellist: Ahora separa los canales de voz y los de texto.
+
+◯ - Randomuser: Anteriormente conocido como "select", fue movido a la sección de comandos útiles y su nombre cambió.
+
+◯ - Weather: Se ha agregado más información de la ciudad. Ahora muestra la hora y las coordenadas.
+
+◯ - Say: Anteriormente conocido como "dsay", su nombre fue cambiado.
+
+◯ - Rannum: Anteriormente conocido como "roll", su nombre fue cambiado debido a un conflicto con otro comando. Adicionalmente, podrás especificar una cantidad numérica y te dará un número aleatorio entre 1 y la cantidad.
+
+◯ - 8ball: Se han agregado más respuestas.
+
+◯ - Love: Se ha cambiado el diseño completo.
+
+◯ - Roll: Anteriormente conocido como "dado", su nombre fue cambiado.
+
+◯ - Osu: Anteriormente dividido en sus 4 modos de juego, ahora todo fue combinado en 1 solo comando. Funciona así: ch!osu <modo> <usuario>. Los modos son los siguientes: std (osu!standard), taiko (Taiko), ctb (Catch the beat) y mania (osu!mania).
+
+◯ - Hug: Se han agregado más gifs.
+
+◯ - Suicide: Anteriormente combinado con kill, ahora fue separado del comando kill y tiene su propio comando.
+
+◯ - Google: Se ha cambiado el diseño por completo. Ahora dará 5 resultados envés de 1.
+
+◯ - Youtube: Anteriormente conocido como "ytsearch", se ha cambiado el diseño por completo. Ahora mostrará 4 resultados envés de 1.
+
+◯ - Giphy: Anteriormente conocido como "gifsearch", se ha cambiado el diseño por completo. Ahora podrás navegar entre los 5 resultados en las páginas de un embed.
+
+◯ - Npm: Anteriormente conocido como "npmsearch", se ha cambiado el diseño por completo. Ahora mostrará 5 resultados envés de 1.
+
+◯ - Gimages: Se ha cambiado el diseño por completo. Ahora podrás navegar entre los 5 resultados en las páginas de un embed.
+
+◯ - Fuck :: Se ha agregado más gifs.
+
+◯ - R34, Xbooru y Konachan: Ahora mostrará 3 resultados envés de 1.
+
+◯ - Gmasturbate :: Se ha agregado 1 gif más.

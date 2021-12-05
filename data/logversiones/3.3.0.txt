@@ -1,0 +1,15 @@
+06/04/2019 - Versión 3.3.0:
+
+◯ - Novedad > Setlogs: Con este comando podrás enviar los mensajes moderativos a un canal en específico, resulta muy útil y es de carácter obligatorio para los comandos moderativos.
+
+◯ - Softban, Warn, Unwarn, Mute, Unmute, Tempmute, Nickname, Kick, Ban, Unban: Se añadió que sus respuestas finales vayan a un canal que debe especificar con el comando setlogs además de un retoque en algunas estéticas de estos.
+
+◯ - Waifu: Más waifus.
+
+◯ - Husbando: Más husbandos.
+
+◯ - Blush, Dab, Punch, Kiss, Pout, Baka, Happy, Disgust, Smug, Run, Lewd, Dance: Se añadieron más Gifs e imágenes sugeridas.
+
+◯ - Meme: Se añadieron más memes de la comunidad.
+
+◯ - Fortnite, Password, Rannum, Rate, Caguai, Jumbo: Estos comandos han sido temporalmente eliminados hasta una mejora de dichos, además fueron votados por la comunidad para su eliminación.

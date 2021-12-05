@@ -1,0 +1,39 @@
+28/05/2020 - Versión 3.6.1:
+
+> Novedades:
+
+◯ - Comando `drole`: Se creó este nuevo comando que es lo contrario al ya conocido `crole`. Con este comando podrás eliminar algún rol de tu servidor por completo. Uso: ch!drole <nombre del rol>/<mención del rol> Ejemplo: ch!drole Silenciado
+
+◯ - Comando `setmodrole`: Con este comando podrás establecer un rol como moderador por defecto. Este hará que la persona que porte dicho rol establecido, tenga acceso a los siguientes comandos: `ban, hackban, kick, mute, nickname, purge, sdm, softban, tempmute, unban, unmute, unwarn, warn`. Uso: ch!setmodrole <mención del rol>/<nombre del rol>. Ejemplo: ch!setmodrole @mods
+
+◯ - Gifs de comandos interactivos y reactivos, husbandos, memes & waifus: Hay más gifs, imágenes, etc... Sugeridos por la comunidad.
+
+◯ - Husbando & Waifu: Ahora contienen la variante "--list", la cuál te permitirá ver de forma simplificada qué waifus y qué husbandos hay para ambos comandos. Uso: `ch!waifu --list / ch!husbando --list`
+
+--------------------------------------------------------------------
+> Cambios:
+
+◯ - Rendimiento: Se ha mejorado nuevamente el rendimiento del bot.
+
+◯ - Nekogirl: El comando ha regresado. (Falta hnekogirl)
+
+◯ - Userinfo: Ahora responde también por ID del usuario.
+
+◯ - Question: Ahora es un comando útil y no necesita ningún permiso extra para poder usarse.
+
+◯ - Meme: Ahora soporta también diversos formatos distintivos a imágenes y gifs.
+
+--------------------------------------------------------------------
+> Bugs: 
+
+◯ - Bugs: Muchos bugs de la versión 3.6.1 fueron corregidos, sólo los más importantes serán señalados a continuación. ¡Gracias por su aporte reportándolos con `ch!bugreport`!
+
+◯ - Love: Ahora se podrá calcular su porcentaje de amor con la persona que no tenga una foto de perfil asignada. También se corrigió el problema con la variante "--today" y ahora es 100% funcional.
+
+◯ - Avatar: La imagen ahora se muestra en la resolución correcta.
+
+◯ - Mute & Tempmute: Ahora avisarán que el usuario ya está silenciado. También se resolvieron ciertos problemas de permisos al momento de crear el rol de Silenciado.
+
+◯ - Ban, kick & softban: Ahora ya revela el nombre del usuario como es debido.
+
+

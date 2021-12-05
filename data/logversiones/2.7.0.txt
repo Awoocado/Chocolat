@@ -1,0 +1,8 @@
+02/07/2018 - Versión 2.7.0:
+
+◯ - Se arreglaron los siguientes comandos:
+-ch!setwelcome.
+-ch!setleave. 
+-ch!setchannel. 
+-ch!setautorole.
+-ch!setprefix.

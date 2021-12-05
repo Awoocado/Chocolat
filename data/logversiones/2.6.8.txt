@@ -1,0 +1,15 @@
+21/06/2018 - Versión 2.6.8:
+
+◯ - Novedad > Waifu: Chocolat mostrará Waifus aleatoriamente o según el número que pongas. Los demás podrán votar por la Waifu.
+
+◯ - Novedad > Lolilicense: Obtén una licencia para tener Lolis.
+
+◯ - Novedad > Triggered: Haz que tu imagen de perfil saque su mayor furia.
+
+◯ - Novedad > Suck: Su nombre lo indica todo, cabe destacar que es un comando NSFW.
+
+◯ - Novedad > Translate: Traduce un texto de cualquier idioma.
+
+◯ - Rannum: Arreglado un pequeño error en el comando "ch!rannum".
+
+◯ - Gmasturbate: Ahora tiene más gifs.

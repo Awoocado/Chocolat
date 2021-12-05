@@ -1,0 +1,16 @@
+11/01/2019 - Versión 3.1.2:
+
+◯ - Novedad > Blacklist: La Lista negra está aquí: Finalmente Chocolat tiene su lista negra, la cual deneragá el uso del bot al que sea incluido en la lista. Ten cuidado, si el staff considera que abusas de algunos comandos, serás incluído en la lista.
+Las siguientes acciones son motivo para enlistar a un usuario en la Lista Negra:
+ - El mal uso de ch!bugreport.
+ - El mal uso de ch!suggestion.
+
+◯ - Ruchannel: El comando ch!ruchannel se le cambió el nombre a "ch!setreports".
+
+◯ - Suggestionc: El comando ch!suggestionc se le cambió el nombre a "ch!setsuggestions".
+
+◯ - Los comandos ch!config ch!setchannel ch!setwelcome ch!setleave ch!setautorole ch!setsuggestions ch!setreports ch!setprefix se les ha cambiado el diseño. Ahora está más adornado que antes.
+
+◯ - Suggest: El comando "ch!suggest" sufrió un pequeño cambio en su diseño.
+
+◯ - Este cambio a nadie le interesa, pero se modificaron códigos internos de Chocolat. El cambio del código está en los comandos de Configuración.

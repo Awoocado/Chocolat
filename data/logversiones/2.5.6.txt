@@ -1,0 +1,7 @@
+14/04/2018 - Versión 2.5.6:
+
+◯ - Kill: El comando decía "Si quieres matarte, usa "ch!kill". Fue arreglado.
+
+◯ - Npm: Fue revertido al viejo estilo debido a errores en búsquedas múltiples.
+
+◯ - Giphy: El error de "No se han encontrado resultados." fue arreglado.

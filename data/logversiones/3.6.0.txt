@@ -1,0 +1,67 @@
+06/05/2020 - Versión 3.6.0:
+
+> Cambios:
+
+◯ - Rendimiento: Se han implementado muchas mejoras en el rendimiento del bot, también se decidió pasar de la versión 11 de Discord.js a la 12.
+
+◯ - Comandos: La mayoría de los comandos de Chocolat fueron mejorados, ahora tienen más ejemplos de uso, mejores diálogos y una estructura más limpia. De la misma forma, muchos errores han sido solucionados, si encuentra algún bug, no dude en reportarlo.
+
+◯ - Comandos de moderación: Se removió la obligación de tener que establecer el canal de logs para estos comandos, ahora es opcional.
+Ahora la mayoría de estos aceptará tanto ID del usuario como la mención.
+La base de datos del comando  warn fue reiniciada y sus errores del conteo han sido arreglados.
+
+◯ - Comandos reactivos e interactivos: Ahora cuentan con más gifs e imágenes por sugerencia de los usuarios del servidor del soporte del bot.
+Se ha mejorado la interacción que tiene el bot con los usuarios, asimismo, se agregaron más respuestas aleatorias a los mensajes de todos los comandos interactivos y reactivos.
+
+◯ - Approve, Deny & Maybe: Ahora ya no es necesario usar el "/" como separador, esta vez se usará un espacio. Ejemplo de uso: ch!approve 477262961694736417 Sugerencia aprobada por decisión unánime del staff.
+
+◯ - Morse: Ahora no es necesario hacer uso del separador "|" entre la acción y la palabra. Ejemplo: ch!morse en Hola, estoy cifrando a código morse.
+
+◯ - Mute: Se añadió la opción "create", esta sólo creará el rol sin tener que silenciar a alguien. Uso: ch!mute create
+
+◯ - Vote: Ahora enviará el mensaje por privado.
+
+◯ - Setautorole: Ahora funcionará también con la mención del rol y su ID.
+
+◯ - Rolelist: Ahora se mandará un mensaje de texto en caso de que la lista sobrepase el límite de caracteres permitido.
+
+◯ - Anime, Manga & Pokedex: En caso de que el servicio de traducción tenga problemas, se mostrará un resultado en inglés.
+
+◯ - Rps: La experiencia de juego con este comando se ha mejorado.
+
+◯ - Horoscope: Pequeño Easter Egg en caso de que los 4 valores lleguen al 100%.
+
+◯ - Love: Ahora tiene un mensaje más en caso de que se consiga el porcentaje de amor al 0%.
+
+◯ - Help & Nodmhelp: Ya no se mostrará el apartado de "Comandos de Música" porque generaba confusiones.
+
+◯ - Help: La estructura de la opción de ayuda detallada ha cambiado, mostrará más contenido que antes.
+
+:underage: - ||Konachan: Ahora saldrán imágenes aleatorias si no se coloca ningún tag.||
+
+◯ - Discouraged: Ahora cuenta con un Easter Egg, ¿serás capaz de conseguirlo?
+
+◯ - Confession: Se movió de categoría de comandos.
+----------------------------------------------------------
+
+> Novedades: 
+
+◯ - Husbando: Se añadieron nuevos husbandos.
+
+◯ - Waifu: Se añadieron nuevas waifus.
+
+◯ - Meme: Se añadieron más memes.
+
+◯ - Se agregaron 5 nuevos comandos secretos, descúbrelos. (Hay uno demasiado extraño)
+
+◯ - Se añadió el comando "game", es un comando de reacción y sirve para mostrar que estás jugando a algo.
+
+◯ - Se añadió el comando "cook", es un comando de interacción con el que podrás demostrar que estás cocinando o directamente cocinarle algo a alguien.
+-----------------------------------------------------------
+
+> Eliminados:
+
+◯ - Lastmessage: El comando ha sido eliminado, no tenía uso práctico.
+
+◯ - Ratewaifu: Comando eliminado. (Su uso era el mismo que "rate")
+
